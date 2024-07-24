@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ruban
-- 👀 I’m interested in cdding
+- 👀 I’m interested in codding
 - 🌱 I’m currently learning AI&ML
   
 
